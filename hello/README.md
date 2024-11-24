@@ -1,5 +1,7 @@
-Everything in here started with just the grammar file Hello.g4:
-% antlr4 Hello.g4           # Generate the other stuff
+Everything in here started with just the grammar file Hello.g4. Check it out.
+
+Generating the other files from Hello.g4:
+% antlr4 Hello.g4
 % javac *.java
 
 Then try:
